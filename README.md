@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yohane
 - 👩‍🎓 Software Graduate 2021
 - 📚 I’m currently learning JavaScript with Alura
-- 👩‍💻 Here I share the projects I've worked on
+- 👩‍💻 I share the projects I've worked on
 - 📫 You can contact me through yohanegancel@hotmail.com
 
 <!---
