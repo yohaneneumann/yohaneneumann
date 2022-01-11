@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohane
 - 👩‍🎓 Software Developer Graduate 2021
-- 📚 I’m currently working as a Frontend Developer at Hollow
+- 📚 I’m currently working as a WordPress Web Developer
 - 👩‍💻 I share the projects I've worked on
 - 📫 You can contact me through yohanegancel@hotmail.com
 
