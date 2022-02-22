@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yohane
-- 👩‍🎓 Software Developer Graduate 2021
-- 📚 I’m currently working as a WordPress Web Developer
+- 👩‍🎓 Graduate Software Developer 2021
+- 📚 I’m currently working as a Volunteer Web Developer & Designer for Freedom FinTech
+- 💻 Wordpress Developer Freelancer
 - 👩‍💻 I share the projects I've worked on
 - 📫 You can contact me through yohanegancel@hotmail.com
 
