@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yohane
-- 👩‍🎓 Graduate Computer Science 2021
-- 📚 Volunteer Web Developer at Freedom FinTech
-- 💻 Wordpress Developer at Nectar Design
+- 👩🏻‍🎓 Higher Diploma in Science in Computing (LYIT)
+- 💻 Graduate Software Engineer at Globalization Partners
 - 👩‍💻 I share the projects I've worked on
 - 📫 You can contact me through yohanegancel@hotmail.com
 
